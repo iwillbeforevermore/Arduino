@@ -1,3 +1,4 @@
+//this is a comment
 int ledPin = 7;
 int bumperPin = 2;
 int speaker11 = 11;
